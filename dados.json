@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Fabricio",
+        "nascimento": "03/03/1999",
+        "cpf": "050.867.433-62",
+        "sexo": "Masculino",
+        "altura": 178,
+        "peso": 92,
+        "imc": 29.04,
+        "plano_de_saude": "Porto Seguro"
+    }
+]
